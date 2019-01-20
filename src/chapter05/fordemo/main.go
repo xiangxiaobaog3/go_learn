@@ -12,7 +12,7 @@ func main() {
 		fmt.Printf("%c \n", str[i])
 	}
 
-	str = "abcok"
+	str = "abcok上海"
 	for index, val := range str {
 		fmt.Printf("index=%d, val=%c \n", index, val)
 	}
