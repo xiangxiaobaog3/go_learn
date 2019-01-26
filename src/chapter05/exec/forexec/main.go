@@ -6,6 +6,7 @@ import (
 
 func main() {
 	//打印1-100之间所有是9的倍数的整数的个数及总和
+	//
 
 	var max uint64 = 100
 	var count uint64 = 0
