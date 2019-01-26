@@ -7,6 +7,8 @@ type Person struct {
 	Age  int
 }
 
+// 结构体默认是值拷贝的
+
 func main() {
 	//方式2
 	p2 := Person{"mary", 20}
